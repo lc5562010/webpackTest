@@ -1,2 +1,1 @@
 # webpackTest
-test
